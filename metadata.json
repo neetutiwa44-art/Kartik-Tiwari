@@ -1,0 +1,6 @@
+{
+  "name": "Fantasy Cricket",
+  "description": "An interactive fantasy cricket companion with AI toss selector and real-time IPL-style live match scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
